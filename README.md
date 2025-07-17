@@ -38,13 +38,6 @@ Using **DLT pipelines**, we transform raw synthetic data into analytics-ready go
   - Sales performance by branch
   - Customer frequency and churn analysis
 
-### Pipeline Flow
-
-A visual representation of the Delta Live Tables pipeline is shown below:
-
-<img width="1548" height="2832" alt="dlt_pipeline_diagram" src="https://github.com/user-attachments/assets/cb68d495-45bd-410c-90c3-19934e66777e" />
----
-
 ## 📊 Dashboards
 
 The final gold tables are used to build dashboards that show:
