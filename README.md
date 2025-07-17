@@ -10,7 +10,6 @@ The pipeline focuses on tracking and optimizing business operations such as:
 - Customer visits and sales
 - Vehicle servicing and parts
 - Service convenience scoring by model and branch
-
 Using **DLT pipelines**, we transform raw synthetic data into analytics-ready gold tables.
 
 ---
@@ -43,10 +42,7 @@ Using **DLT pipelines**, we transform raw synthetic data into analytics-ready go
 
 A visual representation of the Delta Live Tables pipeline is shown below:
 
-!images
-
-> *Replace with actual image path if different*
-
+<img width="1548" height="2832" alt="dlt_pipeline_diagram" src="https://github.com/user-attachments/assets/cb68d495-45bd-410c-90c3-19934e66777e" />
 ---
 
 ## 📊 Dashboards
@@ -82,11 +78,3 @@ The final gold tables are used to build dashboards that show:
 - **Faker (for data generation)**
 - **PySpark**
 - **SQL Dashboards**
-
----
-
-## 🙌 Credits
-
-- **Author**: [Your Name]
-- **Synthetic Data**: Generated using Python `faker`
-- **Tools**: Databricks, Delta Lake, PySpark
