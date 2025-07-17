@@ -43,7 +43,7 @@ Using **DLT pipelines**, we transform raw synthetic data into analytics-ready go
 
 A visual representation of the Delta Live Tables pipeline is shown below:
 
-![DLT Pipeline Graph](diagrams/dlt_pipeline_graph.png)
+!images
 
 > *Replace with actual image path if different*
 
